@@ -6,11 +6,11 @@
 ### __Stage description:__  
 Monitoring of application, server, OS, hardware etc
 
-| Pipeline Stage:<br>Monitor  | Role 1  | Role 2  | Role 3  | Role 4  | Role N  |
+| Pipeline Stage:<br>Monitor  | Ops Team | Project Office  | Sys Admin  | Developers  | Testers  |
 |----------------------------- |-------- |-------- |-------- |-------- |-------- |
-| Task 1                       |         |         |         |         |         |
-| Task 2                       |         |         |         |         |         |
-| Task 3                       |         |         |         |         |         |
+| Monitor server uptime        |         |         |         |         |         |
+| Monitor experimental release                     |         |         |         |         |         |
+| Monitor resource usage                     |         |         |         |         |         |
 | Task N                       |         |         |         |         |         |
   
   
