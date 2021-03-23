@@ -4,14 +4,14 @@
 
 ## __Pipeline stage:__  Monitor  
 ### __Stage description:__  
-Monitoring of application, server, OS, hardware etc
+Monitoring of application, server, OS, hardware etc. This can help track performance issues and user behaviour.
 
-| Pipeline Stage:<br>Monitor  | Ops Team | Project Office  | Sys Admin  | Developers  | Testers  |
-|----------------------------- |-------- |-------- |-------- |-------- |-------- |
-| Monitor server uptime        |         |         |         |         |         |
-| Monitor experimental release                     |         |         |         |         |         |
-| Monitor resource usage                     |         |         |         |         |         |
-| Task N                       |         |         |         |         |         |
-  
+| Pipeline Stage:<br>Monitor      | business Users  | system administrators  | testers | PO  | developers  | business support/operations teams  |
+|-------------------------------- |---------------- |----------------------- |-------- |---- |------------ |----------------------------------- |
+| system performance              |       I         |          R             |   I     |  I  |     C       |              A                     |
+| system usage monitoring         |                 |          C             |   I     |     |             |              RA                    |
+| system user access              |       V         |          A             |         |     |             |              R                     |
+| system availability             |       I         |          R             |   I     |  I  |     I       |              A                     |
+| system deployments and patching |       I         |          RA            |   V     |  S  |     I       |              V                     |
   
 [Home](../index.md)  
